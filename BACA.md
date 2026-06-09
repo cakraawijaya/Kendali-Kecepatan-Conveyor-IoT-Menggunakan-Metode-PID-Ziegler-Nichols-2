@@ -14,7 +14,7 @@ Di sektor industri, motor konveyor DC biasanya digunakan untuk memindahkan mater
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
-| Editor Kode | Arduino IDE |
+| Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Driver | CP210X USB Driver |
 | Platform IoT | Ubidots |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Message Queuing Telemetry Transport (MQTT) |
