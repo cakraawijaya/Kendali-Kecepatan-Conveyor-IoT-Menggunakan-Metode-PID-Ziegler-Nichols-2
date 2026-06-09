@@ -20,7 +20,7 @@ In the industrial sector, DC conveyor motors are commonly used to move materials
 | Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Message Queuing Telemetry Transport (MQTT) |
 | IoT Architecture | 3 Layer |
 | Programming Language | C/C++ |
-| Arduino Library | • WiFi (default)<br>• PubSubClient<br>• LiquidCrystal_I2C<br>• ArduinoJson<br>• ESP32Encoder |
+| Arduino Library | • WiFi (default)<br>• PubSubClient by Nick O'Leary (Version: 2.8)<br>• LiquidCrystal_I2C by Frank de Brabander (Version: 1.1.2)<br>• ArduinoJson by Benoit Blanchon (Version: 7.4.1)<br>• ESP32Encoder by Kevin Harrington (Version: 0.11.7) |
 | Actuators | Motor DC JGA25-370 (x1) |
 | Sensor | Encoder Sensor (x1) |
 | Display | LCD I2C (x1) |
