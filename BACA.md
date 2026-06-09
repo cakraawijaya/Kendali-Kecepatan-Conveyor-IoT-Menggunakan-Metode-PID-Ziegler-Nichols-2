@@ -20,7 +20,7 @@ Di sektor industri, motor konveyor DC biasanya digunakan untuk memindahkan mater
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Message Queuing Telemetry Transport (MQTT) |
 | Arsitektur IoT | 3 Lapisan |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | • WiFi (default)<br>• PubSubClient<br>• LiquidCrystal_I2C<br>• ArduinoJson<br>• ESP32Encoder |
+| Pustaka Arduino | • WiFi (default)<br>• PubSubClient oleh Nick O'Leary (Versi: 2.8)<br>• LiquidCrystal_I2C oleh Frank de Brabander (Versi: 1.1.2)<br>• ArduinoJson oleh Benoit Blanchon (Versi: 7.4.1)<br>• ESP32Encoder oleh Kevin Harrington (Versi: 0.11.7) |
 | Aktuator | Motor DC JGA25-370 (x1) |
 | Sensor | Sensor Encoder (x1) |
 | Layar | LCD I2C (x1) |
