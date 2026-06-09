@@ -14,7 +14,7 @@ In the industrial sector, DC conveyor motors are commonly used to move materials
 | Part | Description |
 | --- | --- |
 | Development Board | DOIT ESP32 DEVKIT V1 |
-| Code Editor | Arduino IDE |
+| Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Driver | CP210X USB Driver |
 | IoT Platform | Ubidots |
 | Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Message Queuing Telemetry Transport (MQTT) |
